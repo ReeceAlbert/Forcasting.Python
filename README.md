@@ -6,4 +6,6 @@ Week 04 Coding Exercise and Forecasting
 - We learned about rolling averages, shifting time, Simple forecast methods, and moving averages
 - We were tasked with doing a coding exercise to help with our understanding of the material.
 [Coding Exercise](https://github.com/ReeceAlbert/Forcasting23/blob/main/Week%204%20Coding%20Exercise%20.ipynb)
-[Coding Practice and Guide]
+
+[Coding Practice and Guide](https://github.com/ReeceAlbert/Forcasting23/blob/main/Week%204.ipynb)
+
