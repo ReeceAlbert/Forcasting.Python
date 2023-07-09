@@ -1,5 +1,5 @@
 # Forcasting23
-This repository is used to showcase my Forecasting work inside of my master's program
+This repository is used to showcase my Forecasting class work inside of my master's program. This repository will feature word documnets showcasing my understand of certain items inside the code. I also presented jupyter notebooks that has the code itself. Hopefully, you will enjoy looking at my work. 
 
 Week 04 Coding Exercise and Forecasting 
 - During the week of 04, we wanted to understand time series better. We use time series data from the FRED Economic data to conduct some the work.
