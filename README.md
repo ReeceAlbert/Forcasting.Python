@@ -1,4 +1,4 @@
-# Forcasting23
+# Forcasting Fall 23
 This repository is used to showcase my Forecasting class work inside of my master's program. This repository will feature word documnets showcasing my understand of certain items inside the code. I also presented jupyter notebooks that has the code itself. Hopefully, you will enjoy looking at my work. 
 
 Week 04 Coding Exercise and Forecasting 
