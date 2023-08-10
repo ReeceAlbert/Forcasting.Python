@@ -19,7 +19,11 @@ Week 05 Coding Exercise and Forecasting
 [Coding Practice and Guide](https://github.com/ReeceAlbert/Forcasting23/blob/main/week%2005.ipynb)
 
 Week 06 Coding Excercise and Forecasting 
-- In this section we wnated to use different types of methods provided in python
+- In this section we wanted to use different types of methods provided in python
 - We used the statsmodels packages to conduct our forecasting and understand we can use each model
 
 [Coding Practice and Exercise](https://github.com/ReeceAlbert/Forcasting23/blob/main/Week%2006%20Coding%20Exercise.ipynb)
+
+Week 07 Coding Excercise and Forecasting 
+- In this section we aimed to understand regression assumptions.
+- We used python to create simple regression models that focuses on sales data
